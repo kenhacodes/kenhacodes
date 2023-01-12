@@ -1,6 +1,6 @@
 ### About me 🍜
 
-♟ I’m currently learning App Development, Data Analytics and ML.
+♟ I’m currently learning App Development, Data Analytics and ML. ♞
 
 
 <!--START_SECTION:Chess-->
