@@ -10,7 +10,7 @@ jobs:
     name: Update readme with chess stats
     runs-on: ubuntu-latest
     steps:
-      - uses: Prathamesh-B/chess-stats-readme@master
+      - uses: Prathamesh-B/chess-stats-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHESS_USERNAME: <KenHa>
