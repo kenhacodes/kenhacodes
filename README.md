@@ -1,7 +1,7 @@
-### About me 👋
+### About me 🍜
 
 🌱 I’m currently learning App Development, Data Analytics and ML.
-
+♟
 <!--START_SECTION:chessStats-->
 
 <!--END_SECTION:chessStats-->
