@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/guillermo-bosca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<img src="https://img.shields.io/twitter/follow/kenha_ART?logo=twitter&style=for-the-badge" alt="Art Account" />
+
 
 
 
