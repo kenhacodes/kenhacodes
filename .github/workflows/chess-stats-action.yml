@@ -7,10 +7,10 @@ on:
 
 jobs:
   update-readme:
-    name: Update readme with your chess stats and games
+    name: Update chess.com stats and games
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: Balastrong/chess-stats-action@main
         with:
-          CHESS_USERNAME: <KenHa>
+          CHESS_USERNAME: 'KenHa'
