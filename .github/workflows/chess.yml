@@ -14,4 +14,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHESS_USERNAME: KenHa
-          RATING_TYPE : <'best'>
+          RATING_TYPE : 'best'
