@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: Prathamesh-B/chess-stats-readme@master
         with:
-          GH_TOKEN: ${{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}}
+          GH_TOKEN: ${{ secrets.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 }}
           CHESS_USERNAME: 'KenHa'
           RATING_TYPE : 'best'
