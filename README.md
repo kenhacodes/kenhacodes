@@ -2,16 +2,12 @@
 
 ♟ I’m currently learning Game Dev but have some experience in App Development. ♞
 
-🎨 Fun fact: I like painting.
+Fun fact: I like painting. 🎨
 
 <!--START_SECTION:Chess-->
 <!--END_SECTION:Chess-->
 
 <a href="https://www.linkedin.com/in/guillermo-bosca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-
-![Profile views](https://gpvc.arturio.dev/kenhacodes)  
-
 
 
 <!--
