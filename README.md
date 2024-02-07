@@ -1,6 +1,6 @@
 ### About me 🍜
 
-♟ I’m currently learning App Development, Data Analytics and ML. ♞
+♟ I’m currently learning Game Dev but have some experience in App Development. ♞
 
 🎨 Fun fact: I like painting.
 
