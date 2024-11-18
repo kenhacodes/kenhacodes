@@ -3,7 +3,7 @@
 ♟ I’m currently learning Game Dev but have some experience in App Development. ♞
 
 Fun fact: I like painting. 🎨
-
+My chess career is quite sad but im improving!
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
