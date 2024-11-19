@@ -9,11 +9,14 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 805 | 758 | 821 |
+| Current | 805 | 758 | 798 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | armaSecretaa | timeout ❌ | 18/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/1N1Np2p/p3P3/Pn1R2P1/2r2P2/7P/6K1 w - -">Link</a> | Bullet |
+| shatstarah | **KenHa** | checkmated ❌ | 18/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1kr3r/p2p2pp/5p2/2p5/3pPB2/q2b2P1/P4P1P/3RK2R b K -">Link</a> | Bullet |
+| kombikraut | **KenHa** | timeout ❌ | 18/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4ppp/B3q3/4pk2/4N3/6Q1/PPP3PP/2K1R3 b - -">Link</a> | Bullet |
 | **KenHa** | DrBrizzz | checkmated ❌ | 17/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/7p/Rp6/2b1n3/8/6PP/5rK1 w - -">Link</a> | Bullet |
 | **KenHa** | Buginois | win 🥇 | 16/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/n4ppp/1pk1p3/p2pP3/1b1P1KPP/1N1B4/P7/8 b - -">Link</a> | Bullet |
 | Fable02 | **KenHa** | win 🥇 | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3nr/p4ppp/4p3/1B2Q3/3P4/B3PN2/P4PPP/qr3RK1 w - -">Link</a> | Bullet |
@@ -21,9 +24,6 @@ My chess career is quite sad but im improving!
 | GrandMaster_2028 | **KenHa** | timeout ❌ | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp4k1/1n3p1n/6p1/1N6/1P5P/P1P1QPP1/6K1 b - -">Link</a> | Bullet |
 | **KenHa** | Gaston1967 | timeout ❌ | 11/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/3n2p1/p2bp1kp/1p2p1P1/3pP2P/1P1P1N2/P4P1K/2R5 w - -">Link</a> | Bullet |
 | S0ul_cru3her | **KenHa** | timeout ❌ | 11/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/6P1/1P1PN3/P3K3/8/8 b - b3">Link</a> | Bullet |
-| **KenHa** | Papillon76 | checkmated ❌ | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/pp4p1/7p/2p5/2NpP3/P7/1P4PP/5q1K w - -">Link</a> | Blitz |
-| pomnikov | **KenHa** | win 🥇 | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/6rb/7q/8/8/8/7K w - -">Link</a> | Blitz |
-| **KenHa** | MisterVespucci | timeout ❌ | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/3pkp2/3n2p1/6K1/8/7P/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
