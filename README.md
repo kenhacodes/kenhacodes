@@ -14,6 +14,8 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | christophgold | win 🥇 | 28/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppp3p1/4rb1n/4p2K/2P4P/1P1q1P2/P3R3/4R3 b - -">Link</a> | Bullet |
+| sidhu2012 | **KenHa** | timeout ❌ | 27/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6bk/pppq3p/3p1Q2/8/4P3/2PP1P2/PPKN2r1/8 b - -">Link</a> | Bullet |
 | LQL33 | **KenHa** | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2p2b1R/4k3/7P/5PK1/8 w - -">Link</a> | Bullet |
 | **KenHa** | everyone-is-a-life | timeout ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5ppp/p1K1p3/8/7P/8/1p6/8 w - -">Link</a> | Bullet |
 | Mahira-Shah | **KenHa** | resigned ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/ppp2ppp/b3p3/1P1pPn2/P2P4/5N2/1P3PPP/R2QR1K1 b - -">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | ignacioprados | checkmated ❌ | 21/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/3p4/4p3/1P1PP1n1/2PB4/P6q/R3R2K w kq -">Link</a> | Bullet |
 | **KenHa** | ilhamfaza | win 🥇 | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1p2n2p/p7/8/3P1pN1/2r5/P4QPP/4RK1R b - -">Link</a> | Bullet |
 | aga966 | **KenHa** | checkmated ❌ | 19/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3R4/8/p4pBB/1p6/7P/PP2kPP1/2R3K1 b - -">Link</a> | Bullet |
-| **KenHa** | armaSecretaa | timeout ❌ | 18/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/1N1Np2p/p3P3/Pn1R2P1/2r2P2/7P/6K1 w - -">Link</a> | Bullet |
-| shatstarah | **KenHa** | checkmated ❌ | 18/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1kr3r/p2p2pp/5p2/2p5/3pPB2/q2b2P1/P4P1P/3RK2R b K -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
