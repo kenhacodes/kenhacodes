@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 805 | 742 | 793 |
+| Current | 805 | 751 | 793 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | Kurangtahu17 | win 🥇 | 10/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr3/ppp2pQ1/3k4/2PPRB2/3P4/8/PP1N1PPP/R1B3K1 b - -">Link</a> | Blitz |
 | **KenHa** | carlito6319 | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Q3/p7/5k1R/P5p1/4P3/6PP/6K1 b - -">Link</a> | Bullet |
 | iniiduy | **KenHa** | checkmated ❌ | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1Q5p/1K4p1/5p2/4p3/4P3/2rP4/8 b - -">Link</a> | Blitz |
 | phongisreall | **KenHa** | timeout ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Rrk4/P7/8/4p1pp/4P1p1/4N3/1PN2PP1/5K2 b - -">Link</a> | Bullet |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | everyone-is-a-life | timeout ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5ppp/p1K1p3/8/7P/8/1p6/8 w - -">Link</a> | Bullet |
 | Mahira-Shah | **KenHa** | resigned ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/ppp2ppp/b3p3/1P1pPn2/P2P4/5N2/1P3PPP/R2QR1K1 b - -">Link</a> | Blitz |
 | **KenHa** | ImmmWill | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/5R1k/6pp/8/1P6/8/7P/7K b - -">Link</a> | Bullet |
-| craigmaikranz | **KenHa** | timeout ❌ | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p5pp/2b1Br2/1p6/5N2/6P1/1P3P1P/5RK1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
