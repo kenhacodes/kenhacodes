@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 805 | 743 | 793 |
+| Current | 805 | 743 | 785 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | louisino7o | abandoned  | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2pR1pp1/p4n1p/4p3/4P3/2q2N2/5PPP/R5K1 w - -">Link</a> | Bullet |
 | MTella | **KenHa** | checkmated ❌ | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1Q4/2R5/8/8/3P4/6P1/1PP5/6K1 b - -">Link</a> | Blitz |
 | **KenHa** | 7Aura7 | checkmated ❌ | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p3pp/1p6/p7/2bB4/8/P4PPP/RN2r1K1 w - -">Link</a> | Blitz |
 | meowgirllll | **KenHa** | timeout ❌ | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nr/ppp4p/5P2/2bk2P1/8/1P3N2/P1P5/3RK2R b K -">Link</a> | Bullet |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | NotAdyK | **KenHa** | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p2K4/Pkqp4/8/8/4q3 w - -">Link</a> | Blitz |
 | **KenHa** | Zrof | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/8/7Q/2k3R1 b - -">Link</a> | Blitz |
 | Nakullondhe123 | **KenHa** | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp4r1/3p3P/7K/2Pp1p2/1P6/P3q2P/R4R2 w - -">Link</a> | Bullet |
-| **KenHa** | Kurangtahu17 | win 🥇 | 10/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr3/ppp2pQ1/3k4/2PPRB2/3P4/8/PP1N1PPP/R1B3K1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
