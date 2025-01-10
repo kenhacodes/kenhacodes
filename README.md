@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 857 | 698 | 785 |
+| Current | 863 | 698 | 785 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | aroaaaaaaaaaaaaaaaaaaaaaa | win 🥇 | 9/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Q3/3R2p1/4k2p/5pP1/8/PP1K3P/7R b - -">Link</a> | Rapid |
 | aroaaaaaaaaaaaaaaaaaaaaaa | **KenHa** | win 🥇 | 9/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2Q5/6k1/5pp1/5nKp/1P3P2/P6P/4RB1R w - -">Link</a> | Rapid |
 | **KenHa** | aroaaaaaaaaaaaaaaaaaaaaaa | win 🥇 | 9/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b1k1r/R4Qpp/1q1p4/4p3/2P5/3PBN2/5PPP/4KB1R b K -">Link</a> | Rapid |
 | aroaaaaaaaaaaaaaaaaaaaaaa | **KenHa** | win 🥇 | 9/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/ppp2ppp/8/3P4/6n1/1P2P3/P1P4q/3b1B1K w - -">Link</a> | Rapid |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | aroaaaaaaaaaaaaaaaaaaaaaa | **KenHa** | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/Rp4pp/2bp4/8/P1P4P/1P2p2B/3nPbN1/5K2 w - -">Link</a> | Rapid |
 | **KenHa** | aroaaaaaaaaaaaaaaaaaaaaaa | checkmated ❌ | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4n1/p3p1Qp/N1nk4/3p2N1/8/3P4/PPP2PPP/R1Bq1K1R w - -">Link</a> | Rapid |
 | aroaaaaaaaaaaaaaaaaaaaaaa | **KenHa** | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4K1kp/8/3B1p1P/8/6r1/4r3/8 w - -">Link</a> | Blitz |
-| TheKingOfPawn | **KenHa** | timeout ❌ | 7/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pppk1r2/7R/4Qp2/8/8/3PKP2/q3R3 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
