@@ -9,11 +9,14 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 748 | 717 |
+| Current | 915 | 748 | 708 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | SDMMAdrid | checkmated ❌ | 21/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pb2n2p/1p4p1/NP3p2/P7/8/B5qb/1R1QR2K w - -">Link</a> | Blitz |
+| SDMMAdrid | **KenHa** | win 🥇 | 21/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/p1p3pp/5p2/1N6/8/4n3/6qP/R3R2K w - -">Link</a> | Blitz |
+| **KenHa** | WALLAPATTA | checkmated ❌ | 21/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/p4Q1p/5p2/8/8/8/5PPP/q5K1 w - -">Link</a> | Bullet |
 | dubeydhaarya | **KenHa** | timeout ❌ | 18/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/2npb1R1/4p3/4P3/3PB3/1PP5/2K4R b - -">Link</a> | Bullet |
 | **KenHa** | ldm1005 | timeout ❌ | 15/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp5p/6p1/4p3/3p1q2/3B3b/PPP1RKRP/8 w - -">Link</a> | Blitz |
 | **KenHa** | megamo555 | win 🥇 | 15/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/1r1b3p/pp3p2/3Rp3/1BP5/1P3N2/P4PPP/5RK1 b - -">Link</a> | Blitz |
@@ -21,9 +24,6 @@ My chess career is quite sad but im improving!
 | Bekzod_IDIYEV_9 | **KenHa** | repetition ⏸️ | 14/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2pq2pp/2n1pp2/p1N2b2/3P4/2P3P1/1P2QPBP/5RK1 b - -">Link</a> | Blitz |
 | DrtyDns | **KenHa** | win 🥇 | 14/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/pb4pp/1p3p2/7q/1Q1p4/P2P2PK/1P5P/8 w - -">Link</a> | Blitz |
 | **KenHa** | Youcef-lord | win 🥇 | 14/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/8/8/p7/7k/1P1P2pQ/P5P1/2R1R1K1 b - -">Link</a> | Blitz |
-| franticnick1 | **KenHa** | win 🥇 | 13/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pp2n1pp/2n1bp2/2P1p3/3pN3/3P1N1P/3QBPP1/q5K1 w kq -">Link</a> | Blitz |
-| sergisirvent | **KenHa** | win 🥇 | 13/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/1p3R1K/p7/2p5/3p2n1/8/8/8 w - - 0 39">Link</a> | Rapid |
-| **KenHa** | sergisirvent | win 🥇 | 13/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rkb1r/p1p3pp/8/5pB1/2B1p1b1/5N2/PQP2PPP/R3R1K1 b k - 0 15">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
