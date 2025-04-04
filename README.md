@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 731 | 699 |
+| Current | 915 | 731 | 688 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | vikas-chandravanshi | timeout ❌ | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k3/8/5b2/2P5/1P2r3/P1KN4/6R1 w - -">Link</a> | Bullet |
 | lobsang11 | **KenHa** | timeout ❌ | 10/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p2R4/1kP5/8/2PK4/4r3 b - -">Link</a> | Blitz |
 | **KenHa** | Matteo979l | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/8/p2r1p1Q/1p2p1p1/5nRp/2P1KR2/PP5P/8 b - -">Link</a> | Blitz |
 | patrickwalsh666 | **KenHa** | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q6k/p5Qp/4N3/5p1b/4p3/4P2P/PPPr2P1/R4RK1 b - -">Link</a> | Blitz |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | pllaster | **KenHa** | win 🥇 | 24/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2p1k1pp/1p3p2/4p3/4PQ2/2P2P2/q2r2PP/5RK1 b - -">Link</a> | Bullet |
 | **KenHa** | Sevilla2000 | win 🥇 | 23/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp1b1p2/1b1B1R2/2pP2r1/2B5/2PN3P/PP4P1/5RK1 b - -">Link</a> | Blitz |
 | **KenHa** | AlexPAlexP | checkmated ❌ | 23/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/5k2/1R2p3/p3Pp1p/5Pp1/6P1/5q1P/2K4q w - -">Link</a> | Blitz |
-| Antharo | **KenHa** | timeout ❌ | 23/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3R/8/2P4P/4p3/1p2P3/1B1PK3/8/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
