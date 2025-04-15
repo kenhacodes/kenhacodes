@@ -14,6 +14,7 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sergisirvent | **KenHa** | win 🥇 | 14/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3N4/3b4/K5k1/5p2/8/4b3/8 w - - 0 54">Link</a> | Daily |
 | Predsednik-Predsednistva | **KenHa** | win 🥇 | 6/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq2k1/p1p3pp/5p2/3p1n2/8/2P5/P1P2PPP/R1B2rK1 w - -">Link</a> | Bullet |
 | **KenHa** | Christhofher | win 🥇 | 6/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r1k/1p4pp/4B3/3p4/1p1R4/1P6/5PPP/4K2R b K -">Link</a> | Bullet |
 | Amit24073 | **KenHa** | win 🥇 | 6/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pp1p1ppp/2p5/q1b5/4PN2/3P1Q2/P4PPP/q1BK1B1R w kq -">Link</a> | Bullet |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | Matteo979l | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/8/p2r1p1Q/1p2p1p1/5nRp/2P1KR2/PP5P/8 b - -">Link</a> | Blitz |
 | patrickwalsh666 | **KenHa** | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q6k/p5Qp/4N3/5p1b/4p3/4P2P/PPPr2P1/R4RK1 b - -">Link</a> | Blitz |
 | **KenHa** | CokedUpCowboy | timeout ❌ | 3/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/ppp1pk1p/5b2/3b1P2/8/P4R2/8/2B4K w - -">Link</a> | Bullet |
-| lonolo | **KenHa** | checkmated ❌ | 2/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/pppq3k/7Q/6Bp/4p1b1/8/PPP3PP/5RK1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
