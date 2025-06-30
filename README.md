@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 732 | 723 |
+| Current | 915 | 732 | 712 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| CarlsenmMagnus | **KenHa** | timeout ❌ | 29/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/ppp5/3pN3/2n1p3/4N3/3P2k1/PPPKPR2/8 b - - 4 29">Link</a> | Bullet |
+| ThePieceTaker99 | **KenHa** | checkmated ❌ | 29/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5Q2/4B3/8/8/4K3/8/8 b - - 14 52">Link</a> | Blitz |
 | **KenHa** | wooain | abandoned  | 24/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/1p3pp1/2b5/2b1P3/2p4p/5K1P/P2N1PP1/q6R w k - 0 23">Link</a> | Blitz |
 | **KenHa** | checkmatinguiseasy | win 🥇 | 20/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nbqkbQ1/2ppppp1/r7/1p1PP3/2P5/pP1BBN2/P2N1PPP/R4RK1 w - - 1 20">Link</a> | Bullet |
 | **KenHa** | mfcapoglu | checkmated ❌ | 17/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6b1/7p/5pqK/8/1k5P/8/8 w - - 2 50">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | Chessprovincible | **KenHa** | win 🥇 | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp3pp/3ppr2/8/4P3/8/P1PQK1PP/7q w - - 0 19">Link</a> | Blitz |
 | V_Dogg | **KenHa** | checkmated ❌ | 25/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnk3R1/p6Q/1p6/2p5/8/6B1/PR2KPBP/8 b - - 7 31">Link</a> | Bullet |
 | **KenHa** | hilariousblunder | win 🥇 | 21/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/p5pp/2Bp1b2/2p3p1/8/2N5/PPP4P/R4RK1 b - - 5 23">Link</a> | Bullet |
-| Parkapute | **KenHa** | checkmated ❌ | 16/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nr/p3bppp/3p1q2/kQp5/B1P1PB2/8/P4PPP/5RK1 b - - 4 18">Link</a> | Bullet |
-| **KenHa** | notLLawliet | timeout ❌ | 16/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K2kp1p/6p1/8/8/5r2/8/8 w - - 0 45">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
