@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 748 | 721 |
+| Current | 915 | 748 | 698 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | Prodigy2441139 | checkmated ❌ | 22/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/2p1k3/2p1p1p1/3pP3/2b2P2/b2q4/8/2K5 w - - 12 41">Link</a> | Bullet |
+| noro1725 | **KenHa** | checkmated ❌ | 22/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/ppp1kQ1p/2np1p1p/2b1p3/2B1P3/2PP3N/PP3PPP/RN2K2R b KQ - 3 9">Link</a> | Bullet |
 | camiloCRAFT25 | **KenHa** | checkmated ❌ | 13/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/b5Bp/8/6Q1/1P1p4/6kP/P5P1/5R1K b - - 0 38">Link</a> | Blitz |
 | **KenHa** | HopsaNL | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R1bq1rk1/4nppp/1p2p3/3pP1B1/1p1P4/5N2/3N1PPP/3Q1RK1 b - - 0 16">Link</a> | Blitz |
 | GeneralKenobi94 | **KenHa** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp4p1/3Q4/6q1/8/8/6PP/3R3K w - - 4 33">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | Brilliantly-Blunder | win 🥇 | 10/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/p1p3p1/2p4p/2B1p3/4N1b1/5P2/PPP1K1PP/3R3R b - - 2 16">Link</a> | Bullet |
 | k1NGsd | **KenHa** | win 🥇 | 8/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp2n1pp/8/4p3/8/7P/P7/3q2RK b - - 1 26">Link</a> | Bullet |
 | ITguy1216 | **KenHa** | checkmated ❌ | 8/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pQ3b1p/5p2/3p1P2/8/6P1/P1PbqPBP/1R3RK1 b - - 0 21">Link</a> | Bullet |
-| CarlsenmMagnus | **KenHa** | timeout ❌ | 29/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/ppp5/3pN3/2n1p3/4N3/3P2k1/PPPKPR2/8 b - - 4 29">Link</a> | Bullet |
-| ThePieceTaker99 | **KenHa** | checkmated ❌ | 29/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5Q2/4B3/8/8/4K3/8/8 b - - 14 52">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
