@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 709 | 647 |
+| Current | 915 | 711 | 647 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | GerhardXXXIV | timeout ❌ | 24/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/8/p6p/1pbB2k1/4Q3/2P2R2/PP2K1Pq/R7 w - - 5 32">Link</a> | Blitz |
+| OniTengu | **KenHa** | win 🥇 | 24/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r2r/ppp2p2/5n1p/3p2pQ/P2Pn1K1/1P2P2P/1BP2q1P/R4B1R w - - 9 19">Link</a> | Blitz |
 | Proniom | **KenHa** | win 🥇 | 22/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Q2p/5ppk/8/4P2q/7P/r4PP1/5RK1 w - - 5 41">Link</a> | Blitz |
 | ShebiKharik | **KenHa** | abandoned  | 22/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/ppp3pp/3p4/4p3/2B1P1b1/1P1QP3/P1P3PP/RN2K1NR b KQkq - 2 8">Link</a> | Blitz |
 | **KenHa** | abhay_raj988 | timeout ❌ | 14/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/K7/8/1r6/8/8/8/1q6 w - - 1 50">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | Mamba2408KB | timeout ❌ | 3/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3q/p1p3p1/1pP1pb1p/1P6/3NP3/P2P4/1Q3PPP/R4RK1 w - - 1 24">Link</a> | Bullet |
 | Stufather14 | **KenHa** | timeout ❌ | 16/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p6p/2N5/1p4k1/2p5/P1P5/1KP5/5q2 b - - 14 42">Link</a> | Bullet |
 | Fabriciorj85 | **KenHa** | win 🥇 | 14/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/7p/1Q1p2p1/2p2k2/8/8/PPP2PqP/1K2R2R w - - 0 27">Link</a> | Bullet |
-| **KenHa** | Baagdaat | timeout ❌ | 8/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/7p/8/K3pp1P/8/2k2P2/1q6 w - - 0 49">Link</a> | Bullet |
-| rcozer47 | **KenHa** | win 🥇 | 8/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/pk6/1pp5/8/8/5PPP/4q1K1 w - - 2 33">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
