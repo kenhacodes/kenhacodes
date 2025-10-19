@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 694 | 638 |
+| Current | 915 | 694 | 614 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | blendong8888 | checkmated ❌ | 18/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1b3ppp/5n2/2R1p3/1P1p4/3P4/1Q3PqP/6K1 w - - 0 26">Link</a> | Bullet |
+| jennatalia55 | **KenHa** | timeout ❌ | 18/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/8/1NP2p1n/7p/3p3k/8/P1PK2Q1/5R2 b - - 1 36">Link</a> | Bullet |
 | **KenHa** | sergisirvent | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1rb1r/ppp2p1p/5p2/5Q2/8/1B3n2/PPP3RP/R1BK4 b - - 1 20">Link</a> | Daily |
 | **KenHa** | jasamsasha | timeout ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp2p1b1/7p/3q2p1/8/1B6/PP1n1PKP/RN1R4 w - - 2 22">Link</a> | Bullet |
 | lungisanikunene | **KenHa** | timeout ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/r7/8/5PK1/4N1PP/7R b - - 8 35">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | pratshelke1 | checkmated ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq4/pppp1kp1/5n1p/8/4P3/3P1P2/PPPN1nPP/R1B3RK w - - 1 16">Link</a> | Bullet |
 | **KenHa** | CasseyCassidy | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2b1q3/1p1p2PP/4p3/p7/2Q2P2/PPP1B3/2KR3R b - - 0 28">Link</a> | Bullet |
 | AndreyPavlovich | **KenHa** | timeout ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/R5pp/5p2/4p3/6b1/7P/P4nP1/2K5 b - - 0 31">Link</a> | Bullet |
-| **KenHa** | Adelka11 | checkmated ❌ | 10/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K2r4/2q3p1/p5k1/7p/P3pRbP/4P1P1/8/8 w - - 5 32">Link</a> | Blitz |
-| **KenHa** | GerhardXXXIV | timeout ❌ | 24/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/8/p6p/1pbB2k1/4Q3/2P2R2/PP2K1Pq/R7 w - - 5 32">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
