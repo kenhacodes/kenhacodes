@@ -9,21 +9,21 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 694 | 593 |
+| Current | 915 | 717 | 593 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Keblin719 | **KenHa** | checkmated ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K5/Q7/1Q6/8/8/k7/8/8 b - - 12 63">Link</a> | Blitz |
+| **KenHa** | chadu25 | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp3ppp/3b3B/3P4/6P1/5P2/PPP3K1/R3Q3 b - - 0 19">Link</a> | Blitz |
+| **KenHa** | koziolekmatolek1 | timeout ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/6pp/pp6/2pP4/2Pb4/1P1R1p1q/P1Q2P1P/6RK w - - 6 30">Link</a> | Blitz |
+| Mohamad_Amhaz | **KenHa** | timeout ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1bp2Rpp/rq6/1k1n3B/3P4/1P1Q2PP/7K/1N6 b - - 6 30">Link</a> | Blitz |
+| **KenHa** | shaguitoox | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k2p/5bp1/p7/2B5/3R4/P4PPP/5RK1 b - - 1 32">Link</a> | Blitz |
+| comaher | **KenHa** | checkmated ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/8/8/k3p3/1R2P2P/2P5/6K1 b - - 10 51">Link</a> | Blitz |
+| **KenHa** | zaniar51 | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/Q7/8/3k4/5p2/P4P2/5K2 b - - 0 48">Link</a> | Blitz |
+| Chikitinggubat01 | **KenHa** | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3n1/2p4p/4K3/1p3q1P/8/8/8/5q2 w - - 0 42">Link</a> | Blitz |
+| **KenHa** | moslehiparham | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/2p1kp2/1p6/2pP4/Q1K1PnRr/2P2P2/PP6/8 b - - 1 40">Link</a> | Blitz |
 | sergisirvent | **KenHa** | win 🥇 | 10/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R7/1r1p1kpp/8/K7/8/8 w - - 0 41">Link</a> | Daily |
-| **KenHa** | HRayo2005 | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp4p1/2nppnp1/8/2P5/1Q1P4/PP3PPP/RN3RK1 b kq - 2 13">Link</a> | Daily |
-| CanIPlayWithMadness | **KenHa** | checkmated ❌ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5r1/7Q/pnp1kp2/1pN1p1p1/q1P1P3/P6P/1BPR1PP1/5RK1 b - - 2 22">Link</a> | Daily |
-| Ayad-2025 | **KenHa** | checkmated ❌ | 5/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp2Qpp/3p4/2b3B1/3pn3/8/PPP3PP/RN3RK1 b kq - 4 15">Link</a> | Blitz |
-| **KenHa** | 3catzi | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r1b2/1p3pp1/1rpp1n2/B3pP2/8/3P3P/P1P2PP1/R4RK1 b - - 0 22">Link</a> | Blitz |
-| Pastakindje | **KenHa** | timeout ❌ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/ppp2kp1/8/8/4NP2/3n1K2/P7/8 b - - 1 34">Link</a> | Bullet |
-| Xristos_means_King | **KenHa** | checkmated ❌ | 1/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/pppb4/3p2Qp/4pPB1/4P2P/3P4/PPP5/RN2K1NR b KQkq - 0 15">Link</a> | Bullet |
-| **KenHa** | Drlee747 | win 🥇 | 25/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p3/4PkPP/5N2/6K1/P7/8 b - - 0 47">Link</a> | Bullet |
-| **KenHa** | Tahutu808 | timeout ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q3r/2pk2bp/2n3p1/3p1p2/Q2P1P2/1P6/P5PP/RNB2RK1 w - - 0 18">Link</a> | Bullet |
-| **KenHa** | blendong8888 | checkmated ❌ | 18/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1b3ppp/5n2/2R1p3/1P1p4/3P4/1Q3PqP/6K1 w - - 0 26">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
