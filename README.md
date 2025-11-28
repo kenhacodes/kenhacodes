@@ -14,6 +14,7 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | sergisirvent | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p2/2p3pp/4p3/3bP3/1PNP1P2/2R1K1PP/Q7 b - - 0 27">Link</a> | Daily |
 | CaptainGazpacho | **KenHa** | win 🥇 | 26/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7K/7q/6q1/1k6/8 w - - 11 60">Link</a> | Rapid |
 | FrancescoMisti | **KenHa** | win 🥇 | 26/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/1pp1b1pp/p2q1p2/3p1p2/1P1P4/P1N1PN2/2P2PPP/R2R2K1 w kq - 0 14">Link</a> | Blitz |
 | **KenHa** | Evoire | timeout ❌ | 26/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5QQ1/8/1r3K2/8/3k4/8/8/8 w - - 7 64">Link</a> | Blitz |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | Wagscd | **KenHa** | win 🥇 | 26/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N4/7k/8/3Q4/3P1P1p/7P/6PK/8 w - - 1 58">Link</a> | Blitz |
 | **KenHa** | AngelDeGuso8 | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/p6q/1pp1p1p1/3pP2r/1P1P1P2/2P3Q1/P3R2P/4KR2 b - - 6 32">Link</a> | Bullet |
 | baanbhasa | **KenHa** | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp3rpp/2p5/8/1P4PK/2P4P/6r1/8 w - - 0 29">Link</a> | Bullet |
-| branimiring | **KenHa** | win 🥇 | 24/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pp5p/1p3p1p/8/1P1P4/P2P4/5PPP/4q1K1 w - - 0 23">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
