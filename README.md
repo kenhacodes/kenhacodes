@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 915 | 731 | 612 |
+| Current | 915 | 731 | 605 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | scobau | timeout ❌ | 7/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/p1R5/1k2P2p/3R1P2/3Nn1P1/PP6/6K1 w - - 0 36">Link</a> | Bullet |
 | hatms | **KenHa** | win 🥇 | 5/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p1p1R/4kp2/8/p2p1b2/6PP/P4r1K/2r5 w - - 0 33">Link</a> | Bullet |
 | **KenHa** | akrah87 | checkmated ❌ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2R4p/5pk1/pP1b4/5B2/P4PPP/4r1K1 w - - 1 29">Link</a> | Bullet |
 | Maki_n_tosh | **KenHa** | stalemate ⏸️ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Q5P/8/p1p5/k1N5/5P2/PP6/3K4 b - - 0 36">Link</a> | Bullet |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | Lautaro1998 | **KenHa** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1r2/pp6/2p1n3/3p3R/8/5NP1/PP4B1/1K1q4 w - - 0 29">Link</a> | Bullet |
 | ReneLeto | **KenHa** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p5pp/2p1bp2/p3p3/4P3/5N2/2Q2PPP/1RB2NK1 w - - 0 24">Link</a> | Bullet |
 | **KenHa** | Affy1221 | timeout ❌ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6K1/8/5k2/6q1/8/8/8 w - - 3 57">Link</a> | Bullet |
-| aminloveschessgame | **KenHa** | checkmated ❌ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pppbnppQ/4pb2/2P5/1P1P4/P2B1N2/5PPP/R1B1K2R b KQ - 0 15">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
