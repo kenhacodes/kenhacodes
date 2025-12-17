@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 731 | 588 |
+| Current | 917 | 731 | 580 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| S1WRA | **KenHa** | win 🥇 | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1n1/2p3p1/2P2p2/K3p3/4P3/8/1r6/q7 w - - 3 38">Link</a> | Rapid |
+| **KenHa** | judahgarber | timeout ❌ | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/5pkp/p3p3/1p1p4/8/1P2qNP1/P6P/7K w - - 1 30">Link</a> | Bullet |
 | BigBadPdogg | **KenHa** | timeout ❌ | 14/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/p7/1p6/5p2/4qk2/P4R2/5K2/2R5 b - - 2 37">Link</a> | Bullet |
 | NolanHimes15 | **KenHa** | win 🥇 | 14/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp3pp/3P4/4r3/2P1b3/1PR1R3/P4PqP/3Q2K1 w - - 0 24">Link</a> | Bullet |
 | **KenHa** | Oof446 | checkmated ❌ | 14/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/ppp1p1pp/8/3N4/3n4/3P4/PP2qPPP/R1B1K2R w KQ - 0 15">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | tom225 | **KenHa** | timeout ❌ | 13/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p1P1kp1p/1n4p1/1p6/1b2PB2/7P/P5P1/6K1 b - - 0 30">Link</a> | Bullet |
 | **KenHa** | Raghav-bisht | win 🥇 | 13/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R4k/6p1/p6p/4p3/8/3Q2P1/P4P1P/6K1 b - - 0 33">Link</a> | Bullet |
 | **KenHa** | shahN2023 | win 🥇 | 12/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pp3pQ1/2p1p2p/3pP3/3P4/3B1P2/PPP2P1P/RN2K2R b KQkq - 0 10">Link</a> | Bullet |
-| Andjei30 | **KenHa** | timeout ❌ | 11/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2k4p/8/P2R2p1/1nN5/1P2P3/5KPP/8 b - - 0 35">Link</a> | Bullet |
-| **KenHa** | whiteguyblackguy | timeout ❌ | 11/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp4p1/2p2p2/8/1P5q/P2r2r1/4K3/8 w - - 6 43">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
