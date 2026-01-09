@@ -9,11 +9,14 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 733 | 588 |
+| Current | 917 | 733 | 564 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | chieboi | checkmated ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/3p1n2/4p1N1/2P5/B7/P4PPP/4q1K1 w - - 0 21">Link</a> | Bullet |
+| **KenHa** | BORZZ_777 | checkmated ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1r1/ppQ1pp2/5n1B/8/2P5/3P3P/PP3Pq1/R4RK1 w q - 0 18">Link</a> | Bullet |
+| waleedzaghloul12 | **KenHa** | timeout ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3r1/pnq2Q2/1p1p2B1/1Pp1p3/2P5/8/PB1PNP1P/R4R1K b - - 0 31">Link</a> | Bullet |
 | **KenHa** | JorgeAriasRios | win 🥇 | 6/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4N3/5pkp/4p1p1/p3Pn2/2P5/1P6/1P3PPP/3R1K2 b - - 0 31">Link</a> | Bullet |
 | god_sex_pro | **KenHa** | timeout ❌ | 6/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/p2k1n1b/1p1P1P2/1Pp5/P1P3P1/4K2P/1R1R4 b - - 0 30">Link</a> | Bullet |
 | **KenHa** | niival | timeout ❌ | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppRb2p1/3P2p1/8/8/8/qP3P1P/4R1K1 w - - 0 28">Link</a> | Bullet |
@@ -21,9 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | Vincent-Mnt | timeout ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/5ppp/r1P1p3/p2pPn2/8/2Q5/P4PPP/3qN1K1 w - - 3 27">Link</a> | Bullet |
 | Bidyutsanfui78 | **KenHa** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1p4p/2p5/7k/5R1P/8/PPP3qK/5b2 w - - 4 29">Link</a> | Bullet |
 | somcali | **KenHa** | checkmated ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr2/p1p4p/8/5N2/5nP1/2P2P1k/P4N1P/3R2K1 b - - 4 30">Link</a> | Blitz |
-| **KenHa** | EmreKnight | win 🥇 | 25/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q3r/pp1bk1bp/2p1p3/3pPnBQ/8/P1N5/1PP1BPPP/R3K2R b KQ - 0 16">Link</a> | Blitz |
-| JayTheFallenOne | **KenHa** | timeout ❌ | 25/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7p/4R1kp/8/P4PK1/8 b - - 4 45">Link</a> | Bullet |
-| **KenHa** | hugsNroses | checkmated ❌ | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/8/5p2/6nP/8/1r6/q1K5 w - - 14 48">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
