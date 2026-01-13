@@ -14,6 +14,8 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | thanhbeom79 | win 🥇 | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4pp1/1p1Q3p/1B6/8/6P1/PP3P2/7K b - - 0 29">Link</a> | Bullet |
+| **KenHa** | PatodelBajo | checkmated ❌ | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4n1k1/p5pp/8/8/7P/6P1/PP2rq2/RN4KR w - - 8 26">Link</a> | Bullet |
 | fantomau | **KenHa** | timeout ❌ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/4N2p/5p2/2p3p1/4PBk1/8/PPP2PPQ/R4RK1 b - - 1 25">Link</a> | Bullet |
 | **KenHa** | chieboi | checkmated ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/3p1n2/4p1N1/2P5/B7/P4PPP/4q1K1 w - - 0 21">Link</a> | Bullet |
 | **KenHa** | BORZZ_777 | checkmated ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1r1/ppQ1pp2/5n1B/8/2P5/3P3P/PP3Pq1/R4RK1 w q - 0 18">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | god_sex_pro | **KenHa** | timeout ❌ | 6/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/p2k1n1b/1p1P1P2/1Pp5/P1P3P1/4K2P/1R1R4 b - - 0 30">Link</a> | Bullet |
 | **KenHa** | niival | timeout ❌ | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppRb2p1/3P2p1/8/8/8/qP3P1P/4R1K1 w - - 0 28">Link</a> | Bullet |
 | JohnCenaaaaaaaaaa | **KenHa** | timeout ❌ | 31/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/7p/2k3p1/2p2p2/P7/4P3/5PPP/2R3K1 b - - 3 34">Link</a> | Bullet |
-| **KenHa** | Vincent-Mnt | timeout ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/5ppp/r1P1p3/p2pPn2/8/2Q5/P4PPP/3qN1K1 w - - 3 27">Link</a> | Bullet |
-| Bidyutsanfui78 | **KenHa** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1p4p/2p5/7k/5R1P/8/PPP3qK/5b2 w - - 4 29">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
