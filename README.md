@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 733 | 555 |
+| Current | 917 | 733 | 556 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Max_Puissant9 | **KenHa** | win 🥇 | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4r/3k3p/p2q4/2p1p1p1/1p1pPnP1/5P2/2Q2K2/2R1R3 w - - 0 36">Link</a> | Bullet |
+| 2PANDA2222 | **KenHa** | timeout ❌ | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7B/p1pk4/2p5/7n/2P4p/PN1P2p1/1K6/6q1 b - - 1 33">Link</a> | Bullet |
 | **KenHa** | thanhbeom79 | win 🥇 | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4pp1/1p1Q3p/1B6/8/6P1/PP3P2/7K b - - 0 29">Link</a> | Bullet |
 | **KenHa** | PatodelBajo | checkmated ❌ | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4n1k1/p5pp/8/8/7P/6P1/PP2rq2/RN4KR w - - 8 26">Link</a> | Bullet |
 | fantomau | **KenHa** | timeout ❌ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/4N2p/5p2/2p3p1/4PBk1/8/PPP2PPQ/R4RK1 b - - 1 25">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | waleedzaghloul12 | **KenHa** | timeout ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3r1/pnq2Q2/1p1p2B1/1Pp1p3/2P5/8/PB1PNP1P/R4R1K b - - 0 31">Link</a> | Bullet |
 | **KenHa** | JorgeAriasRios | win 🥇 | 6/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4N3/5pkp/4p1p1/p3Pn2/2P5/1P6/1P3PPP/3R1K2 b - - 0 31">Link</a> | Bullet |
 | god_sex_pro | **KenHa** | timeout ❌ | 6/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/p2k1n1b/1p1P1P2/1Pp5/P1P3P1/4K2P/1R1R4 b - - 0 30">Link</a> | Bullet |
-| **KenHa** | niival | timeout ❌ | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppRb2p1/3P2p1/8/8/8/qP3P1P/4R1K1 w - - 0 28">Link</a> | Bullet |
-| JohnCenaaaaaaaaaa | **KenHa** | timeout ❌ | 31/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/7p/2k3p1/2p2p2/P7/4P3/5PPP/2R3K1 b - - 3 34">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
