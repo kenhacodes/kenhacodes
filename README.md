@@ -14,6 +14,8 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | uchappa | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5r1/5p1Q/P6P/6PK/8/2P5/8 b - - 0 51">Link</a> | Blitz |
+| king0506 | **KenHa** | timeout ❌ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k1b3/8/6R1/8/6P1/5P1P/6K1 b - - 0 43">Link</a> | Blitz |
 | **KenHa** | HJ197 | checkmated ❌ | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1R3pp/4k3/8/P7/8/5PPP/3q2K1 w - - 1 27">Link</a> | Blitz |
 | rickypina | **KenHa** | win 🥇 | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/Q1R1q1kp/3pPp2/8/7n/5P2/P4P1P/1r4K1 w - - 1 27">Link</a> | Blitz |
 | **KenHa** | Playing_Drunk2025 | win 🥇 | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/3p1ppk/7p/3p1q2/8/6P1/3B1P1P/5RK1 b - - 0 27">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | 2PANDA2222 | **KenHa** | timeout ❌ | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7B/p1pk4/2p5/7n/2P4p/PN1P2p1/1K6/6q1 b - - 1 33">Link</a> | Bullet |
 | **KenHa** | thanhbeom79 | win 🥇 | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4pp1/1p1Q3p/1B6/8/6P1/PP3P2/7K b - - 0 29">Link</a> | Bullet |
 | **KenHa** | PatodelBajo | checkmated ❌ | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4n1k1/p5pp/8/8/7P/6P1/PP2rq2/RN4KR w - - 8 26">Link</a> | Bullet |
-| fantomau | **KenHa** | timeout ❌ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/4N2p/5p2/2p3p1/4PBk1/8/PPP2PPQ/R4RK1 b - - 1 25">Link</a> | Bullet |
-| **KenHa** | chieboi | checkmated ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/3p1n2/4p1N1/2P5/B7/P4PPP/4q1K1 w - - 0 21">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
