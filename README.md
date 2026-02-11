@@ -14,6 +14,9 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| siouxnil | **KenHa** | stalemate ⏸️ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/5Q2/6P1/2pP2k1/2P2p2/2P2K2/1R6 b - - 4 63">Link</a> | Blitz |
+| Lzdro | **KenHa** | win 🥇 | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1k6/8/1pR4p/p3ppp1/P4b2/BPP2R1P/3rK3 w - - 4 34">Link</a> | Blitz |
+| **KenHa** | Ibrahim-agh | resigned ❌ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p3pp/p3pn2/2P3B1/2q5/8/P4PPP/3R1RK1 w - - 0 21">Link</a> | Blitz |
 | maxayachess | **KenHa** | timeout ❌ | 31/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q3nr/pRR2p1k/3p1q1p/5Pp1/4P3/5NP1/P6P/6K1 b - - 8 27">Link</a> | Bullet |
 | **KenHa** | lebron123_1 | timeout ❌ | 28/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k2pp/4p3/3p4/8/5N2/Pbr1KPPP/8 w - - 2 25">Link</a> | Bullet |
 | **KenHa** | cirekcr | timeout ❌ | 28/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/r4k1p/4p1p1/N1bqPp2/Q2p1P2/3P1P2/PP1B2BP/R4RK1 w - - 1 22">Link</a> | Bullet |
@@ -21,9 +24,6 @@ My chess career is quite sad but im improving!
 | Hfuentes226 | **KenHa** | timeout ❌ | 28/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/pp5p/n1p1b3/3p4/5q2/2P5/PP2Q3/1K6 b - - 0 28">Link</a> | Bullet |
 | ammulakshmiammu | **KenHa** | timeout ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/p5pp/8/1pP1P3/8/N1K1P2P/P7/R1B5 b - - 0 30">Link</a> | Bullet |
 | **KenHa** | kurd_010 | win 🥇 | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3Q1/pp4kn/3p2pp/4P1q1/2B5/2N1R3/PP3PPP/R5K1 b - - 2 20">Link</a> | Blitz |
-| Shermanopolous | **KenHa** | checkmated ❌ | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1r3/pR1Q2pp/5p2/2p5/4PB2/8/P1q2PPP/5RK1 b - - 2 21">Link</a> | Blitz |
-| **KenHa** | alt1919 | win 🥇 | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p3q3/Pp2p2k/3p1r1p/3P1Pp1/2PQ2P1/6BP/R3R1K1 b - - 3 30">Link</a> | Blitz |
-| supermitch8 | **KenHa** | checkmated ❌ | 21/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R4k1/3p1p1p/5Kp1/8/p3P3/5P2/6r1/8 b - - 5 33">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
