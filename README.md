@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 769 | 538 |
+| Current | 917 | 769 | 546 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| madhesh021 | **KenHa** | win 🥇 | 6/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/6p1/p1pp4/1pb1p3/3p2R1/2P4P/Pq3P1P/5RK1 w - - 0 27">Link</a> | Bullet |
 | OnTheThird | **KenHa** | checkmated ❌ | 4/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p6p/Q1p3p1/2b2p2/k1P1P3/5P2/1R4PP/3R1K2 b - - 1 28">Link</a> | Bullet |
 | **KenHa** | supremeidris | timeout ❌ | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1rr2/2p4p/p1p5/3pP3/Q4pn1/2Pb1NPq/P2N3P/R3R1K1 w - - 0 23">Link</a> | Bullet |
 | **KenHa** | mvking1981 | win 🥇 | 26/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/8/3p1p1b/1p1Pp1n1/pPp1PpP1/P1P2P1p/2BR3K/1N3R2 b - - 1 31">Link</a> | Blitz |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | PistoniNicolas | **KenHa** | checkmated ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/p5p1/b4n1p/N1k5/2P1P3/4B3/PP1Q1PPP/R3K2R b KQ - 7 21">Link</a> | Bullet |
 | **KenHa** | j1threenv | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2r1k/Q3prbp/p4ppq/3Pp3/2p1P3/1P3P2/P3N1PP/R2R2K1 b - - 1 27">Link</a> | Bullet |
 | ryanshid | **KenHa** | checkmated ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N4Q2/4Q3/8/5k2/8/p2P3P/PP3P2/R3K1R1 b Q - 5 37">Link</a> | Bullet |
-| ChoppyMantis | **KenHa** | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/p5k1/6P1/1Pp1PBK1/4P3/PP6/8 w - - 0 39">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
