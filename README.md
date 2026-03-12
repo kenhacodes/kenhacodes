@@ -14,6 +14,8 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | suxrob3131 | abandoned  | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/pppp1ppp/2n4B/2b1p3/2B1P3/2PP1N2/PP4PP/RN1n1RK1 w kq - 0 8">Link</a> | Bullet |
+| **KenHa** | Avas55555 | win 🥇 | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/Np4pp/2p5/5b2/4pB2/8/PPP2PPP/R3K1NR b KQ - 0 14">Link</a> | Bullet |
 | madhesh021 | **KenHa** | win 🥇 | 6/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/6p1/p1pp4/1pb1p3/3p2R1/2P4P/Pq3P1P/5RK1 w - - 0 27">Link</a> | Bullet |
 | OnTheThird | **KenHa** | checkmated ❌ | 4/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p6p/Q1p3p1/2b2p2/k1P1P3/5P2/1R4PP/3R1K2 b - - 1 28">Link</a> | Bullet |
 | **KenHa** | supremeidris | timeout ❌ | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1rr2/2p4p/p1p5/3pP3/Q4pn1/2Pb1NPq/P2N3P/R3R1K1 w - - 0 23">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | ggvvgrf | **KenHa** | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp2n1kp/6b1/7P/4pQP1/P3P3/2q1KPB1/2r4R w - - 3 29">Link</a> | Blitz |
 | **KenHa** | mhdsvd | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/3Q4/bp1p4/p2P4/8/PP3P1P/2RR2K1 b - - 3 40">Link</a> | Blitz |
 | PistoniNicolas | **KenHa** | checkmated ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/p5p1/b4n1p/N1k5/2P1P3/4B3/PP1Q1PPP/R3K2R b KQ - 7 21">Link</a> | Bullet |
-| **KenHa** | j1threenv | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2r1k/Q3prbp/p4ppq/3Pp3/2p1P3/1P3P2/P3N1PP/R2R2K1 b - - 1 27">Link</a> | Bullet |
-| ryanshid | **KenHa** | checkmated ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N4Q2/4Q3/8/5k2/8/p2P3P/PP3P2/R3K1R1 b Q - 5 37">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
