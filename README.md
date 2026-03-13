@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 769 | 546 |
+| Current | 917 | 769 | 538 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Jeffjohn44 | **KenHa** | abandoned  | 12/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppppb2p/2n2p2/8/4PBn1/2N2N2/PPP2PPP/R2QKB1R b KQkq - 5 8">Link</a> | Bullet |
 | **KenHa** | suxrob3131 | abandoned  | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/pppp1ppp/2n4B/2b1p3/2B1P3/2PP1N2/PP4PP/RN1n1RK1 w kq - 0 8">Link</a> | Bullet |
 | **KenHa** | Avas55555 | win 🥇 | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/Np4pp/2p5/5b2/4pB2/8/PPP2PPP/R3K1NR b KQ - 0 14">Link</a> | Bullet |
 | madhesh021 | **KenHa** | win 🥇 | 6/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/6p1/p1pp4/1pb1p3/3p2R1/2P4P/Pq3P1P/5RK1 w - - 0 27">Link</a> | Bullet |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | farojf | win 🥇 | 26/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp5p/3pqBpn/2p1p3/4P3/P1PP1Q2/1P3PPP/R4RK1 b - - 0 19">Link</a> | Blitz |
 | ggvvgrf | **KenHa** | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp2n1kp/6b1/7P/4pQP1/P3P3/2q1KPB1/2r4R w - - 3 29">Link</a> | Blitz |
 | **KenHa** | mhdsvd | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/3Q4/bp1p4/p2P4/8/PP3P1P/2RR2K1 b - - 3 40">Link</a> | Blitz |
-| PistoniNicolas | **KenHa** | checkmated ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/p5p1/b4n1p/N1k5/2P1P3/4B3/PP1Q1PPP/R3K2R b KQ - 7 21">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
