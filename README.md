@@ -14,6 +14,7 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | S1WRA | timeout ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/p2p1k2/npp3p1/7p/2P5/1PbB2B1/6qP/3K4 w - - 0 26">Link</a> | Blitz |
 | simmoodis | **KenHa** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/4n2p/1p1p1ppb/3Pp3/4PP2/5NP1/PPP4P/RNB2b1K w kq - 0 16">Link</a> | Blitz |
 | Jeffjohn44 | **KenHa** | abandoned  | 12/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppppb2p/2n2p2/8/4PBn1/2N2N2/PPP2PPP/R2QKB1R b KQkq - 5 8">Link</a> | Bullet |
 | **KenHa** | suxrob3131 | abandoned  | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/pppp1ppp/2n4B/2b1p3/2B1P3/2PP1N2/PP4PP/RN1n1RK1 w kq - 0 8">Link</a> | Bullet |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | supremeidris | timeout ❌ | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1rr2/2p4p/p1p5/3pP3/Q4pn1/2Pb1NPq/P2N3P/R3R1K1 w - - 0 23">Link</a> | Bullet |
 | **KenHa** | mvking1981 | win 🥇 | 26/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/8/3p1p1b/1p1Pp1n1/pPp1PpP1/P1P2P1p/2BR3K/1N3R2 b - - 1 31">Link</a> | Blitz |
 | **KenHa** | farojf | win 🥇 | 26/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp5p/3pqBpn/2p1p3/4P3/P1PP1Q2/1P3PPP/R4RK1 b - - 0 19">Link</a> | Blitz |
-| ggvvgrf | **KenHa** | win 🥇 | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp2n1kp/6b1/7P/4pQP1/P3P3/2q1KPB1/2r4R w - - 3 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
