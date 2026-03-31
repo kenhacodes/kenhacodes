@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 781 | 538 |
+| Current | 917 | 768 | 546 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | brianjronk | resigned ❌ | 30/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p3bppp/2pp4/4p3/4P3/r5P1/3K1P1P/8 w - - 2 28">Link</a> | Blitz |
+| Wowa_Veliki | **KenHa** | win 🥇 | 30/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2B3k1/4Q3/p1b2B2/7P/PP2P1P1/2P2P2/R4RK1 w - - 1 34">Link</a> | Bullet |
 | **KenHa** | ebeluj | timeout ❌ | 21/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/2pq4/Q1n5/4P1p1/5n1p/N1P2P1P/Pr3BP1/4RRK1 w - - 0 25">Link</a> | Daily |
 | **KenHa** | aroaaaaaaaaaaaaaaaaaaaaaa | win 🥇 | 18/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/Q7/8/8/8/5PK1/k7/8 b - - 6 59">Link</a> | Daily |
 | **KenHa** | S1WRA | timeout ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/p2p1k2/npp3p1/7p/2P5/1PbB2B1/6qP/3K4 w - - 0 26">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | suxrob3131 | abandoned  | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/pppp1ppp/2n4B/2b1p3/2B1P3/2PP1N2/PP4PP/RN1n1RK1 w kq - 0 8">Link</a> | Bullet |
 | **KenHa** | Avas55555 | win 🥇 | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/Np4pp/2p5/5b2/4pB2/8/PPP2PPP/R3K1NR b KQ - 0 14">Link</a> | Bullet |
 | madhesh021 | **KenHa** | win 🥇 | 6/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/6p1/p1pp4/1pb1p3/3p2R1/2P4P/Pq3P1P/5RK1 w - - 0 27">Link</a> | Bullet |
-| OnTheThird | **KenHa** | checkmated ❌ | 4/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p6p/Q1p3p1/2b2p2/k1P1P3/5P2/1R4PP/3R1K2 b - - 1 28">Link</a> | Bullet |
-| **KenHa** | supremeidris | timeout ❌ | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1rr2/2p4p/p1p5/3pP3/Q4pn1/2Pb1NPq/P2N3P/R3R1K1 w - - 0 23">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
