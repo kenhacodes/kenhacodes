@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 768 | 537 |
+| Current | 917 | 756 | 528 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| jimmyazmi | **KenHa** | timeout ❌ | 6/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p5pp/1q2k3/2b1p3/8/2p2R2/5RPP/2B2K2 b - - 8 40">Link</a> | Blitz |
+| Elizabethyss | **KenHa** | timeout ❌ | 6/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N3r/p3q2p/8/kP3pp1/2Q5/P3B3/5PPP/R4RK1 b - - 0 27">Link</a> | Bullet |
 | **KenHa** | DzinhFL | timeout ❌ | 2/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3qr1k1/Q4pp1/BNp2n1p/3p4/2PNp1b1/8/P2b1PPP/R4RK1 w - - 1 23">Link</a> | Bullet |
 | **KenHa** | brianjronk | resigned ❌ | 30/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p3bppp/2pp4/4p3/4P3/r5P1/3K1P1P/8 w - - 2 28">Link</a> | Blitz |
 | Wowa_Veliki | **KenHa** | win 🥇 | 30/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2B3k1/4Q3/p1b2B2/7P/PP2P1P1/2P2P2/R4RK1 w - - 1 34">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | S1WRA | timeout ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/p2p1k2/npp3p1/7p/2P5/1PbB2B1/6qP/3K4 w - - 0 26">Link</a> | Blitz |
 | simmoodis | **KenHa** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/4n2p/1p1p1ppb/3Pp3/4PP2/5NP1/PPP4P/RNB2b1K w kq - 0 16">Link</a> | Blitz |
 | Jeffjohn44 | **KenHa** | abandoned  | 12/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppppb2p/2n2p2/8/4PBn1/2N2N2/PPP2PPP/R2QKB1R b KQkq - 5 8">Link</a> | Bullet |
-| **KenHa** | suxrob3131 | abandoned  | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/pppp1ppp/2n4B/2b1p3/2B1P3/2PP1N2/PP4PP/RN1n1RK1 w kq - 0 8">Link</a> | Bullet |
-| **KenHa** | Avas55555 | win 🥇 | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/Np4pp/2p5/5b2/4pB2/8/PPP2PPP/R3K1NR b KQ - 0 14">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
