@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 677 | 520 |
+| Current | 917 | 679 | 520 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | kali415 | checkmated ❌ | 4/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/2P5/5nP1/2Pr4/P3r2P/2RK4 w - - 0 36">Link</a> | Blitz |
+| **KenHa** | anandKsingh1 | win 🥇 | 4/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/8/5PQK/2q5/8/8/5P1P/8 b - - 0 49">Link</a> | Blitz |
 | Bloomington1 | **KenHa** | win 🥇 | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6Q/p5K1/8/5p2/8/6k1/8/2q5 w - - 0 66">Link</a> | Blitz |
 | lightblue_paper_XP | **KenHa** | checkmated ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/1Q6/8/8/k7/3K4/8/8 b - - 4 51">Link</a> | Blitz |
 | **KenHa** | leancohen | win 🥇 | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1b2/2ppnNp1/p1bk1p1p/7Q/1p2P3/1P1P4/P1P2PPP/RNB2RK1 b - - 1 13">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | nishantperiwal | timeout ❌ | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kr4/1pp1K3/8/2P5/8/p7/8 w - - 0 47">Link</a> | Blitz |
 | Zuldyc | **KenHa** | checkmated ❌ | 26/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3rk2/ppp2pQ1/5B2/7P/8/1P2P3/2P5/1K6 b - - 2 32">Link</a> | Blitz |
 | **KenHa** | JRANGELJ | win 🥇 | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/p6p/1p2Q3/5p2/8/2P5/P1Pq1PPP/3RR1K1 b - - 0 22">Link</a> | Blitz |
-| **KenHa** | HTourquis | checkmated ❌ | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/8/7P/6P1/5q2/3r3K w - - 1 44">Link</a> | Blitz |
-| **KenHa** | M0hamadafd | timeout ❌ | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5pp1/R3p2p/2P1P3/3P1P2/3R3P/6P1/6K1 w - - 0 31">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
