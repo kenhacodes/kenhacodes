@@ -9,11 +9,13 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 668 | 494 |
+| Current | 917 | 668 | 495 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | jpedre82 | timeout ❌ | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp4p1/2p3qp/3p4/P2Pp3/1B2K1Pb/1P2Q2P/R7 w - - 3 27">Link</a> | Bullet |
+| SKI_M4SK | **KenHa** | win 🥇 | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/p2pbp2/4p3/k1P1PP2/r2P2P1/7P/1R4K1 w - - 1 32">Link</a> | Bullet |
 | **KenHa** | Night512 | checkmated ❌ | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kn3/p1p3pp/3r4/1p6/q4Pn1/1KR3P1/PP6/6R1 w - - 8 41">Link</a> | Bullet |
 | JoKu1904 | **KenHa** | timeout ❌ | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k2p/4P2P/5K2/8/8 b - - 4 58">Link</a> | Blitz |
 | **KenHa** | who_A99 | checkmated ❌ | 5/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/ppp3pp/2b5/1P6/2P5/6P1/P4P1P/3r2K1 w - - 0 28">Link</a> | Bullet |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | Bloomington1 | **KenHa** | win 🥇 | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6Q/p5K1/8/5p2/8/6k1/8/2q5 w - - 0 66">Link</a> | Blitz |
 | lightblue_paper_XP | **KenHa** | checkmated ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/1Q6/8/8/k7/3K4/8/8 b - - 4 51">Link</a> | Blitz |
 | **KenHa** | leancohen | win 🥇 | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1b2/2ppnNp1/p1bk1p1p/7Q/1p2P3/1P1P4/P1P2PPP/RNB2RK1 b - - 1 13">Link</a> | Blitz |
-| Piyush071120 | **KenHa** | checkmated ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r3r/2p4p/Q3p3/P2pNpp1/1R1P4/B1P1P3/5PP1/R5K1 b - - 0 23">Link</a> | Blitz |
-| Voidshift0 | **KenHa** | timeout ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p6/p7/P1P2K1k/7p/8/7R b - - 7 48">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
