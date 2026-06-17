@@ -14,6 +14,8 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | Sabo_Ace_luffy | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3r2/p3p2p/6p1/8/2N2P1k/7b/PPP2PBP/R5K1 b - - 1 28">Link</a> | Bullet |
+| Ibragimganiev | **KenHa** | timeout ❌ | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/p7/4kpQ1/1P3R2/3P2R1/2P4P/2P3P1/6K1 b - - 0 33">Link</a> | Bullet |
 | **KenHa** | Cris120120 | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/R7/8/8/k2p4/2PP1p2/1P1N1P1P/5K2 b - - 11 39">Link</a> | Bullet |
 | **KenHa** | Hfuentes226 | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1pR2p1p/5k2/4p3/6B1/4B3/PP3PPP/5RK1 b - - 0 26">Link</a> | Bullet |
 | tarpeyjoseph | **KenHa** | win 🥇 | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k5p/6p1/8/6PP/p7/3r4/1q3K2 w - - 4 47">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | DimovPavel | **KenHa** | checkmated ❌ | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2kr3/p2Q2pp/2P2p2/4pP2/3p4/1P6/2P3bP/2KRR3 b - - 2 29">Link</a> | Blitz |
 | **KenHa** | sinanosman | checkmated ❌ | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p4p/1p2pqp1/5p2/5P1K/1P4PP/8/7b w - - 1 32">Link</a> | Bullet |
 | Cute-zajda | **KenHa** | win 🥇 | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6pp/5p2/2p1n3/B2pP3/q1p4P/4RPP1/3Q2K1 w - - 2 31">Link</a> | Bullet |
-| GMesquita_s | **KenHa** | checkmated ❌ | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B1b1Q1k1/p4p1p/6pB/8/6P1/8/P6P/2KR3R b - - 0 28">Link</a> | Bullet |
-| **KenHa** | pierinolv | win 🥇 | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/8/p3P1p1/4Bb1p/5P2/1P3NPP/P5K1/2q5 b k - 1 36">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
