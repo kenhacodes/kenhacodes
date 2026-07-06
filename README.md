@@ -9,11 +9,12 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 707 | 644 |
+| Current | 917 | 707 | 636 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | Qwertydosaaf | timeout ❌ | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/1P1R1p1p/2B1k3/2p1pp2/8/5P1P/6P1/6K1 w - - 0 31">Link</a> | Bullet |
 | mosniperfa | **KenHa** | checkmated ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1bnr/ppppkppp/8/4Q3/4P3/8/PPP2PPP/RNB1KB1R b KQ - 2 6">Link</a> | Bullet |
 | vangall | **KenHa** | checkmated ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/kQ5p/8/Npp3p1/4P3/1PP2N1P/1P4P1/R5K1 b - - 2 33">Link</a> | Bullet |
 | Mohamed19072004 | **KenHa** | win 🥇 | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p3r1pp/1p3p2/8/1p2P3/3P4/P4PPP/2r3K1 w - - 0 31">Link</a> | Bullet |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | lexsitienei | **KenHa** | timeout ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/ppp2k2/4RPp1/5p1p/2B2Pb1/P5P1/1PP3K1/8 b - - 0 30">Link</a> | Bullet |
 | **KenHa** | GigoloSieglinde | win 🥇 | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5p1p/rp1p2k1/p1pqP1Q1/5P2/1P5P/P1P3P1/R4RK1 b - - 0 23">Link</a> | Bullet |
 | **KenHa** | clunza | win 🥇 | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R5k/R6p/2Pp4/4p3/2P1r3/4p3/5PPP/6K1 b - - 1 31">Link</a> | Bullet |
-| RaaaniTohPappaNi | **KenHa** | timeout ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/7p/p3P3/3P4/5p2/P1r1k3/4R2R/6K1 b - - 5 40">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
