@@ -9,11 +9,14 @@ My chess career is quite sad but im improving!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 917 | 695 | 717 |
+| Current | 917 | 682 | 716 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| mohmed2123 | **KenHa** | win 🥇 | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5P2/8/6K1/6B1/4r3/6k1/8 w - - 1 49">Link</a> | Bullet |
+| JacobRom | **KenHa** | checkmated ❌ | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/p4ppp/3Q4/2p5/1qP5/6P1/5P1P/6K1 b - - 0 28">Link</a> | Bullet |
+| **KenHa** | happenintroops | timeout ❌ | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/ppp2kpp/8/4R3/8/1P5P/P7/3R1K2 w - - 1 33">Link</a> | Blitz |
 | **KenHa** | hamoooodyyyyy | checkmated ❌ | 13/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2qq4/1K6/8/8/3k4/q7 w - - 10 72">Link</a> | Blitz |
 | **KenHa** | A7HM00D | win 🥇 | 9/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2Q2nkp/6p1/8/1P5P/P7/6P1/3R3K b - - 5 33">Link</a> | Bullet |
 | auo203 | **KenHa** | timeout ❌ | 8/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Rrk1/6p1/3p3q/p1p5/Pp4P1/1P3P2/1B3Q2/R5K1 b - - 0 32">Link</a> | Bullet |
@@ -21,9 +24,6 @@ My chess career is quite sad but im improving!
 | teplyyy | **KenHa** | win 🥇 | 7/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/6kp/6p1/p7/P6Q/2P1P3/6PP/6K1 w - - 3 35">Link</a> | Bullet |
 | **KenHa** | Vinay_Kandula | win 🥇 | 6/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Q1pk1/Rp3p1p/1Pp5/8/2P2NP1/5P1P/6K1 b - - 0 33">Link</a> | Bullet |
 | pablocarrascov | **KenHa** | win 🥇 | 6/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r2r/p6p/5pn1/2bN4/P2Q1BPp/8/1Pq2P1P/R4K1R w - - 2 23">Link</a> | Bullet |
-| **KenHa** | kubujashi | win 🥇 | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/7Q/5p2/1P4p1/3N4/P7/5KPP/8 b - - 0 36">Link</a> | Bullet |
-| **KenHa** | Dominique-Rodriguez | win 🥇 | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/6p1/2Q3kp/3p1nB1/8/2P5/P4PPP/R4RK1 b - - 3 26">Link</a> | Bullet |
-| zvdsz2 | **KenHa** | timeout ❌ | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1k4P1/p7/6K1/8/8/8 b - - 0 45">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
