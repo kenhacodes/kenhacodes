@@ -14,16 +14,16 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | seesj89 | checkmated ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3k1/pp4pp/4p2r/1P6/3P4/N2N4/P4PPq/R2Q1RK1 w - - 0 22">Link</a> | Rapid |
+| Dams1889 | **KenHa** | resigned ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p1k3/1p4Q1/p7/P6R/1PP1N3/3K4 w - - 1 37">Link</a> | Rapid |
+| Hothorn543 | **KenHa** | checkmated ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/1bp1Q3/p5p1/3p2B1/8/2N5/PPn2PPP/R5K1 b q - 0 17">Link</a> | Rapid |
+| Writhe7 | **KenHa** | checkmated ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Qk/1p2N3/p2p1p2/2pP2p1/2P5/7P/PP3PP1/4b1K1 b - - 0 28">Link</a> | Rapid |
+| TridentOne | **KenHa** | win 🥇 | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/6pp/p2p4/3Bp3/N3Pn2/1P3Q1P/P1q2P1P/5RK1 b - - 2 23">Link</a> | Rapid |
+| **KenHa** | Nami_oonepiece | checkmated ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb1r1k1/5pb1/p3p1pp/1pNpP3/1P1Q1PP1/2KPBN2/2q4P/n6R w - - 2 24">Link</a> | Rapid |
+| Sahil-shelby | **KenHa** | checkmated ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqr2k/pp1p1pQp/2p2p1B/4p3/2BbP3/3P4/PPP2PPP/R4RK1 b - - 5 13">Link</a> | Rapid |
+| SimonMoves | **KenHa** | resigned ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/2R5/2N1kP2/1P2P3/P2P2K1/8/8 b - - 0 39">Link</a> | Blitz |
+| Joker_263 | **KenHa** | win 🥇 | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1Q2/1ppk3p/p1bpN1p1/3np3/2P1P3/1P2P3/P5PP/R4RK1 w - - 1 18">Link</a> | Blitz |
 | **KenHa** | WolfLight07 | win 🥇 | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6Qp/1p5r/2p1p3/P1P5/3P4/5q1P/6RK b - - 0 31">Link</a> | Bullet |
-| Kefka-ff6 | **KenHa** | win 🥇 | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/p7/1p6/8/8/6kP/6P1/4q2K w - - 0 42">Link</a> | Bullet |
-| Wizard1996 | **KenHa** | win 🥇 | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/pp3p1p/6p1/8/8/8/PnPB2PP/6K1 w - - 0 31">Link</a> | Bullet |
-| **KenHa** | poe530 | win 🥇 | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1k5/5p2/3p2p1/1p1P1n1p/1P2KP2/7P/8/8 b - - 0 42">Link</a> | Rapid |
-| StanimusTH | **KenHa** | checkmated ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P7/7R/r5p1/6Pk/7P/7K/8 b - - 0 48">Link</a> | Rapid |
-| **KenHa** | THE_CHOOSEN_ONE2 | win 🥇 | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5k1/5ppp/8/2p5/3p4/P1n5/5PPP/R5K1 b - - 0 24">Link</a> | Rapid |
-| Jagdishhooda | **KenHa** | checkmated ❌ | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p5Q/p2p1p2/2pRr3/8/2P3Pn/PPBP4/R1BK4 b - - 0 24">Link</a> | Bullet |
-| HIMESHPANT123 | **KenHa** | timeout ❌ | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp2n1p1/6p1/5n2/2q5/6P1/3K1P2/4R3 b - - 5 35">Link</a> | Bullet |
-| **KenHa** | Evgen321123 | win 🥇 | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/p1R2ppk/5n1p/8/4P3/5N1P/5PP1/6K1 b - - 0 26">Link</a> | Bullet |
-| fran950000 | **KenHa** | timevsinsufficient ⏸️ | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4Q3/7P/2P1K3/8/P1P2Q2/k7 w - - 3 50">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
