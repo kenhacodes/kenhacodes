@@ -14,6 +14,8 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **KenHa** | kunfutiger | timeout ❌ | 11/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5pp1/7p/2nP4/1PB1P1P1/P1P1n3/5q2/RK5R w - - 3 36">Link</a> | Blitz |
+| **KenHa** | ibn_elsheikh | win 🥇 | 11/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rk2/p4QR1/1p3p1p/8/8/5NP1/PP3P1P/5K1R b - - 2 26">Link</a> | Blitz |
 | **KenHa** | Effequ | resigned ❌ | 9/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/1pp2ppp/3p4/p2Pn3/2B1Nq2/4b3/PP3PPP/R4RK1 w kq - 0 16">Link</a> | Blitz |
 | interrog8tor | **KenHa** | resigned ❌ | 9/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qn2k1nr/p1q2ppp/4p3/1N6/3P4/4P3/PP3PPb/R1B2R1K b k - 1 12">Link</a> | Blitz |
 | **KenHa** | GiRoff | win 🥇 | 9/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1b1p1k2/2p5/2Q5/2P1P3/8/PPP2PPP/3R1RK1 b - - 0 23">Link</a> | Blitz |
@@ -22,8 +24,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | glucky243 | checkmated ❌ | 8/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2N/pppp2pp/8/4p3/1nB1n3/8/PPPPKqPP/RNBQ3R w q - 5 11">Link</a> | Blitz |
 | Dub_Switch | **KenHa** | checkmated ❌ | 8/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rq2k3/pp1nQ3/2p5/3p4/3P4/2P4P/PP1N1P2/2K1R2R b - - 0 25">Link</a> | Blitz |
 | khoap10205 | **KenHa** | timeout ❌ | 8/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/5Q2/7N/8/8/3k3K/8/8 b - - 2 57">Link</a> | Blitz |
-| **KenHa** | ffhhkkjj | checkmated ❌ | 7/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5pp1/R6p/1p2P3/8/1P6/6PP/3q3K w - - 0 37">Link</a> | Blitz |
-| **KenHa** | westsmith777 | timeout ❌ | 7/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/2R2bkp/p4p2/3p4/8/4nqB1/5P1P/6K1 w - - 0 35">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
