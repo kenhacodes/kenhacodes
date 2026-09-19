@@ -14,6 +14,7 @@ My chess career is quite sad but im improving!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| crigamo21 | **KenHa** | timeout ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pp5p/2p2pp1/3pP3/4P2Q/8/PPPN1PPP/R1B1KBNR b KQkq - 0 6">Link</a> | Daily |
 | crigamo21 | **KenHa** | stalemate ⏸️ | 14/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k1p/5p2/3n4/8/3b1K2/4n3/6q1 w - - 6 51">Link</a> | Rapid |
 | **KenHa** | Lesterfill | win 🥇 | 13/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2Q3/ppb3pb/7p/8/B7/3p2P1/PP4PP/7K b - - 8 34">Link</a> | Blitz |
 | Anthony_Nth | **KenHa** | resigned ❌ | 13/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbk2nr/pp3Npp/2pb4/8/4P3/8/PPP2PPP/RNB1KB1R b KQ - 0 7">Link</a> | Blitz |
@@ -23,7 +24,6 @@ My chess career is quite sad but im improving!
 | Leaferr | **KenHa** | resigned ❌ | 13/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N4b1r/3bkppp/p7/8/8/8/PPPP1PPP/R1BQK2R b KQ - 0 12">Link</a> | Blitz |
 | ChessCraig77 | **KenHa** | resigned ❌ | 13/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/PRR5/6pp/3k4/5P1P/2P3P1/7K b - - 0 38">Link</a> | Blitz |
 | **KenHa** | salah-zarzor | win 🥇 | 13/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1R2k/p2p1ppB/7p/bp1P4/5q1N/B7/P1Q2PPP/2R3K1 b - - 0 21">Link</a> | Blitz |
-| jthdve | **KenHa** | checkmated ❌ | 12/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/1p5p/1np1p1b1/3p2p1/p2Pp1P1/1PP5/P7/1N4K1 b - - 1 37">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
