@@ -17,6 +17,6 @@ jobs:
         with:
           CHESS_USERNAME: kenha
           SHOW_FEN: false
-          GAMES_SIZE: 0
+          GAMES_SIZE: 1
           SHOW_DATE: false
           SHOW_TIME_CLASS: false
