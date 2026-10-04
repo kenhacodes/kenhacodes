@@ -8,21 +8,12 @@ I'm bad at chess. ᓚᘏᗢ
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 899 | 649 | 878 |
+| Current | 899 | 650 | 878 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| p9ol2013 | **KenHa** | win 🥇 |
-| **KenHa** | RianAdrs | checkmated ❌ |
-| **KenHa** | crigamo21 | timeout ❌ |
-| crigamo21 | **KenHa** | timeout ❌ |
-| crigamo21 | **KenHa** | stalemate ⏸️ |
-| **KenHa** | Lesterfill | win 🥇 |
-| Anthony_Nth | **KenHa** | resigned ❌ |
-| jonboy666 | **KenHa** | checkmated ❌ |
-| **KenHa** | shauryadan | resigned ❌ |
-| **KenHa** | dotdot55555 | resigned ❌ |
+| **KenHa** | ShultsAl | win 🥇 |
 
 <!--END_SECTION:chessStats-->
 
