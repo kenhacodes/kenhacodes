@@ -14,6 +14,15 @@ I'm bad at chess. ᓚᘏᗢ
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
 | p9ol2013 | **KenHa** | win 🥇 |
+| **KenHa** | RianAdrs | checkmated ❌ |
+| **KenHa** | crigamo21 | timeout ❌ |
+| crigamo21 | **KenHa** | timeout ❌ |
+| crigamo21 | **KenHa** | stalemate ⏸️ |
+| **KenHa** | Lesterfill | win 🥇 |
+| Anthony_Nth | **KenHa** | resigned ❌ |
+| jonboy666 | **KenHa** | checkmated ❌ |
+| **KenHa** | shauryadan | resigned ❌ |
+| **KenHa** | dotdot55555 | resigned ❌ |
 
 <!--END_SECTION:chessStats-->
 
