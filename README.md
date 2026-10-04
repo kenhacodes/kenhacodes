@@ -1,9 +1,8 @@
-### About me 🍜
+### 
+<a href="https://www.linkedin.com/in/guillermo-bosca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-♟ I’m currently learning Game Dev but have some experience in App Development. ♞
+I'm bad at chess. ᓚᘏᗢ
 
-Fun fact: I like painting. 🎨
-My chess career is quite sad but im improving!
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
@@ -26,8 +25,6 @@ My chess career is quite sad but im improving!
 | **KenHa** | dotdot55555 | resigned ❌ | 13/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3rk1/2rp1pp1/p6p/8/3q2N1/1P3b2/P4PPP/RR4K1 w - - 0 20">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
-
-<a href="https://www.linkedin.com/in/guillermo-bosca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <!--
