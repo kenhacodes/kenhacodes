@@ -16,5 +16,7 @@ jobs:
       - uses: Balastrong/chess-stats-action@main
         with:
           CHESS_USERNAME: kenha
-          GAMES_SIZE: 0
+          SHOW_FEN: false
+          GAMES_SIZE: 1
           SHOW_DATE: false
+          SHOW_TIME_CLASS: false
