@@ -13,7 +13,7 @@ I'm bad at chess. ᓚᘏᗢ
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| **KenHa** | Joman355 | timeout ❌ |
+| SemperNovus | **KenHa** | timeout ❌ |
 
 <!--END_SECTION:chessStats-->
 
