@@ -8,12 +8,12 @@ I'm bad at chess. ᓚᘏᗢ
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 899 | 666 | 863 |
+| Current | 899 | 658 | 863 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| SemperNovus | **KenHa** | timeout ❌ |
+| **KenHa** | Shoshano | resigned ❌ |
 
 <!--END_SECTION:chessStats-->
 
