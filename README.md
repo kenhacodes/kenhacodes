@@ -13,7 +13,7 @@ I'm bad at chess. ᓚᘏᗢ
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| **KenHa** | Shoshano | resigned ❌ |
+| JBmtl13 | **KenHa** | checkmated ❌ |
 
 <!--END_SECTION:chessStats-->
 
