@@ -8,12 +8,12 @@ I'm bad at chess. ᓚᘏᗢ
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 899 | 666 | 871 |
+| Current | 899 | 666 | 900 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| MCL-echec | **KenHa** | win 🥇 |
+| Onggojip | **KenHa** | win 🥇 |
 
 <!--END_SECTION:chessStats-->
 
