@@ -8,12 +8,12 @@ I'm bad at chess. ᓚᘏᗢ
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 899 | 666 | 900 |
+| Current | 899 | 674 | 900 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| Onggojip | **KenHa** | win 🥇 |
+| **KenHa** | HolyEdensGarden | win 🥇 |
 
 <!--END_SECTION:chessStats-->
 
