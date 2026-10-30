@@ -13,7 +13,7 @@ I'm bad at chess. ᓚᘏᗢ
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| DavidBMcIver | **KenHa** | checkmated ❌ |
+| **KenHa** | F1or1daMan | win 🥇 |
 
 <!--END_SECTION:chessStats-->
 
