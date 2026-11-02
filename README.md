@@ -13,7 +13,7 @@ I'm bad at chess. ᓚᘏᗢ
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| **KenHa** | Borderskys | checkmated ❌ |
+| **KenHa** | sokomadeit | win 🥇 |
 
 <!--END_SECTION:chessStats-->
 
