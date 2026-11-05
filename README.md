@@ -8,12 +8,12 @@ I'm bad at chess. ᓚᘏᗢ
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 899 | 694 | 900 |
+| Current | 899 | 703 | 900 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| Goggles992003 | **KenHa** | stalemate ⏸️ |
+| Kenoju070224 | **KenHa** | checkmated ❌ |
 
 <!--END_SECTION:chessStats-->
 
