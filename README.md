@@ -8,12 +8,12 @@ I'm bad at chess. ᓚᘏᗢ
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 899 | 703 | 900 |
+| Current | 899 | 712 | 892 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| Kenoju070224 | **KenHa** | checkmated ❌ |
+| bluesky2013 | **KenHa** | timeout ❌ |
 
 <!--END_SECTION:chessStats-->
 
