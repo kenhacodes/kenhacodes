@@ -13,7 +13,7 @@ I'm bad at chess. ᓚᘏᗢ
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| bluesky2013 | **KenHa** | timeout ❌ |
+| **KenHa** | evenfsa | win 🥇 |
 
 <!--END_SECTION:chessStats-->
 
