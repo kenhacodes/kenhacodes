@@ -8,12 +8,12 @@ I'm bad at chess. ᓚᘏᗢ
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 899 | 696 | 874 |
+| Current | 899 | 672 | 897 |
 | Best | 1000 | 1000 | 1000 |
 
 | White ⚪ | Black ⚫ | Result 🏆 |
 |:---:|:---:|:---:|
-| Homeboi_gamer | **KenHa** | win 🥇 |
+| **KenHa** | DB_198 | timeout ❌ |
 
 <!--END_SECTION:chessStats-->
 
